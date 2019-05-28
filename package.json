@@ -1,0 +1,21 @@
+{
+  "name": "amazon-to-goodreads",
+  "version": "1.0.0",
+  "description": "Export Amazon whislists for books to GoodReads",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicola Ferracin",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "0.18.0",
+    "chalk": "2.4.2",
+    "dotenv": "8.0.0",
+    "inquirer": "6.3.1",
+    "oauth": "0.9.15",
+    "puppeteer": "1.17.0",
+    "query-string": "6.5.0",
+    "xml-js": "1.6.11"
+  }
+}
