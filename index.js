@@ -37,7 +37,7 @@ const init = () => {
     '- On Amazon whishlists there is no ISIN available therefore book searches are done using the ASIN which sometimes results in no book being found. In these cases an error is displayed and you can search and add your books manually.'
   );
   console.log(
-    '- If you add a book to a non-existing shelf, the API will create one for you. Bare in mind that by default shelves are not exclusive so as a side effect books will be added to the Read shelf as well. If you want to avoid it, create the shelf manually on Goodreads and set it as exclusive.'
+    '- If you add a book to a non-existing shelf, the API will create one for you. Bare in mind that by default shelves are not "exclusive" so as a side effect books will be added to the Read shelf as well. If you want to avoid it, create the shelf manually on Goodreads and set it as "exclusive".'
   );
   console.log(
     '- Adding a book to a shelf and migrating an Amazon wishlist require you authenticate via OAuth. Use the "Authenticate" option and follow the instructions.'
