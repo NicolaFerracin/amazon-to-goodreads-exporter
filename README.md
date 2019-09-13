@@ -2,7 +2,7 @@
 
 ![Amazon to Goodreads exporter](https://raw.githubusercontent.com/NicolaFerracin/amazon-to-goodreads-exporter/master/amazon-to-goodreads.png)
 
-This command line tool allows you to migrate public Amazon wishlists to Goodreads shelves.
+This interactive command line tool allows you to migrate public Amazon wishlists to Goodreads shelves.
 
 ## How to use
 
